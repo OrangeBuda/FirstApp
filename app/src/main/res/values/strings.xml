@@ -1,0 +1,16 @@
+<resources>
+
+
+    <string name="app_name">Mi primera App</string>
+    <string name="Instructions">Ingresa tu Nombre</string>
+    <string name="hint_name">Nombre</string>
+    <string name="send_name_button">Enviar nombre</string>
+    <string name="hello_username">Bienvenido, %1$s</string>
+    <string name="action_settings">Pene</string>
+    <string name="menu_button_1">Menu1</string>
+    <string name="menu_button_2">Menu2</string>
+    <string name="menu_button_1_pressed">Ouch!</string>
+    <string name="menu_button_2_pressed">Oh yeah!</string>
+
+
+</resources>
